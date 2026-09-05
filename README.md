@@ -110,7 +110,3 @@ Each agent teaches Claude one high-value strategy task with a repeatable, named 
 65. **Initiative Tracker** (initiative-tracker/) ,  An initiative portfolio tracker with status and value.
 66. **Strategy Review** (strategy-review/) ,  A strategy-review cadence with the right questions.
 67. **Execution Alignment** (execution-alignment/) ,  An alignment view linking work back to strategic goals.
-
----
-
-Turn the recommendation into board-ready slides that do not feel AI-generated with Oria: https://www.oria.one
